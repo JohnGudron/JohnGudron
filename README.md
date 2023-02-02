@@ -1,4 +1,12 @@
 ### Hi there 👋
+Привет! Я Иван. Я хочу стать Андроид разработчиком и сейчас учусь. На гитхабе я размещаю репозитории со своими учебными и Пет проектами. Ниже вы можете посмотреть краткую информацию обо мне и моих успехах.
+
+
+[![codewars](https://www.codewars.com/users/JohnGudron/badges/large)](https://www.codewars.com/users/JohnGudron)
+
+[![oak43556 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=oak43556)](https://github.com/KnlnKS/leetcode-stats)
+
+
 
 <!--
 **JohnGudron/JohnGudron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
